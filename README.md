@@ -21,3 +21,7 @@ There are several command line arguments, the important ones are listed below
 * `--vgg-model-dir`: path to folder where the vgg model will be downloaded.
 * `--save-model-dir`: path to folder where trained model will be saved.
 * `--cuda`: set it to 1 for running on GPU, 0 for CPU.
+
+
+## Ref.
+- https://github.com/abhiskk/fast-neural-style
