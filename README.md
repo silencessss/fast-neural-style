@@ -25,3 +25,4 @@ There are several command line arguments, the important ones are listed below
 
 ## Ref.
 - https://github.com/abhiskk/fast-neural-style
+- https://github.com/rrmina/fast-neural-style-pytorch
